@@ -37,7 +37,7 @@ http://localhost:8501
 ## Screenshots
 
 ### CSV Mode
-![CSV Mode](screenshots/csv_mode_app.png)
+![CSV Mode](screenshots/csv_mode_map.png)
 
 ### Store API Swagger
 ![Store API](screenshots/store_api_swagger.png)
